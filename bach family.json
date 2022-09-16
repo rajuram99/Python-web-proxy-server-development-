@@ -1,0 +1,17 @@
+{
+"Bachs": {
+"Johann Sebastian Bach": { "id": 0, "wife": [1,2] , "father": 11, "mother": 12},
+"Anna Magdalena Wilcke": { "id": 1, "husband": 0},
+"Maria Barbara Bach": { "id": 2, "husband": 0 },
+"Carl Philipp Emanuel Bach": { "id": 3, "father": 0, "mother": 1 },
+"Wilhelm Friedemann Bach": { "id": 4, "father": 0, "mother": 1 },
+"Gottfried Heinrich Bach": { "id": 5, "father": 0, "mother": 1 },
+"Johann Christoph Friedrich Bach": { "id": 6, "father": 0, "mother": 2 },
+"Johann Christian Bach": { "id": 7, "father": 0, "mother": 2 },
+"Elisabeth Juliane Friederica": { "id":8, "father": 0, "mother": 2 },
+"Johanna Carolina": { "id": 9, "father": 0, "mother": 2 },
+"Regina Susanna": { "id": 10, "father": 0, "mother": 2 },
+"Johann Ambrosius Bach": { "id": 11},
+"Maria Elisabeth Lämmerhirt": { "id": 12}
+}
+}

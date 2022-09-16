@@ -1,0 +1,55 @@
+<ftml>
+<people>
+<person id="Johann Ambrosius Bach" sex="male" >
+</person>
+<person id="Maria Elisabeth Lämmerhirt" sex="female">
+</person>
+<person id="Johann Sebastian Bach" sex="male">
+<wife id= "Anna Magdalena Wilcke" />
+<mother id="Maria Elisabeth Lämmerhirt" />
+<father id="Johann Ambrosius Bach" />
+</person>
+<person id="Anna Magdalena Wilcke" sex="female">
+<husband id="Johann Sebastian Bach" />
+</person>
+<person id="Maria Barbara Bach" sex="female">
+<husband id="Johann Sebastian Bach" />
+</person>
+<person id="Wilhelm Friedemann Bach" sex="male" >
+<father id="Johann Sebastian Bach" />
+<mother id="Maria Barbara Bach" />
+</person>
+<person id="Carl Philipp Emanuel Bach" sex="male" >
+<father id="Johann Sebastian Bach" />
+<mother id="Maria Barbara Bach" />
+</person>
+<person id="Gottfried Heinrich Bach" sex="male" >
+<father id="Johann Sebastian Bach" />
+<mother id="Anna Magdalena Wilcke" />
+</person>
+<person id="Johann Christoph Friedrich Bach" sex="male" >
+<father id="Johann Sebastian Bach" />
+<mother id="Anna Magdalena Wilcke" />
+</person>
+<person id="Johann Christian Bach" sex="male" >
+<father id="Johann Sebastian Bach" />
+<mother id="Anna Magdalena Wilcke" />
+</person>
+<person id=" Elisabeth Juliane Friederica" sex="female" >
+<father id="Johann Sebastian Bach" />
+<mother id="Anna Magdalena Wilcke" />
+</person>
+<person id=" Johanna Carolina" sex="female" >
+<father id="Johann Sebastian Bach" />
+<mother id="Anna Magdalena Wilcke" />
+</person>
+<person id=" Regina Susanna" sex="female" >
+<father id="Johann Sebastian Bach" />
+<mother id="Anna Magdalena Wilcke" />
+</person>
+</people>
+<marriages>
+<marriage husband="Dad" wife="Mom" />
+<marriage husband="Uncle" wife="Aunt" />
+</marriages>
+</ftml>
